@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 42px;
+    margin-left: 10px;
+}
+
+#results, #js-error-message {
+    margin-left: 10px;
+}
+
+#js-search-states {
+    margin-left: 10px; 
+    margin-bottom: 10px;  
+}
+
+#js-form {
+    font-size: 22px;
+}
+
+input, label, button, option {
+    display: block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+button {
+    padding: 6px;
+    margin-top: 10px;
+}
+
+.error-message {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}
